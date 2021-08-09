@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Huh, *both* of _these_ are in fact italics!
+
+But if we use **two** stars or __underscores__ it's bold!
+
+_Yes, we **can** combine them!_
