@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Hi my name is Simina. 
+## I am excited to take this class!
